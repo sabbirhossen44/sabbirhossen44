@@ -29,7 +29,7 @@
 
 🛒 A simple e-commerce platform using Laravel backend and React frontend.
 
-🔗 Live Demo: [https://your-live-site.com](https://github.com/sabbirhossen44/rest_api)
+🔗 Live Demo: [https://live-site.com](https://github.com/sabbirhossen44/rest_api)
 
 ## 🚀 Technologies
 - Laravel 11 (REST API)
