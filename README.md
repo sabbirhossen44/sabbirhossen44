@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sabbir Hossen
-### 💻 A Passionate Full Stack Developer from Bangladesh
+### 💻 A Passionate Web Developer from Bangladesh
 
 - 🔭 I’m currently working on: **React + Laravel E-commerce Project**
 - 🌱 I’m currently learning: **Laravel, REST API, Stripe Integration**
